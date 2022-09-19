@@ -1,0 +1,12 @@
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Base\bin\Debug\net6.0\FootballSimulation.Base.deps.json
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Base\bin\Debug\net6.0\FootballSimulation.Base.dll
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Base\bin\Debug\net6.0\ref\FootballSimulation.Base.dll
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Base\bin\Debug\net6.0\FootballSimulation.Base.pdb
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Base\obj\Debug\net6.0\FootballSimulation.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Base\obj\Debug\net6.0\FootballSimulation.Base.AssemblyInfoInputs.cache
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Base\obj\Debug\net6.0\FootballSimulation.Base.AssemblyInfo.cs
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Base\obj\Debug\net6.0\FootballSimulation.Base.csproj.CoreCompileInputs.cache
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Base\obj\Debug\net6.0\FootballSimulation.Base.dll
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Base\obj\Debug\net6.0\ref\FootballSimulation.Base.dll
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Base\obj\Debug\net6.0\FootballSimulation.Base.pdb
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Base\obj\Debug\net6.0\FootballSimulation.Base.csproj.AssemblyReference.cache

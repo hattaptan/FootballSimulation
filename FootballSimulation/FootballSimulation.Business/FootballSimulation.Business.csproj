@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FootballSimulation.DataAccess\FootballSimulation.DataAccess.csproj" />
+    <ProjectReference Include="..\FootballSimulation.Entities\FootballSimulation.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

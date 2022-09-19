@@ -1,0 +1,359 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.API1\\FootballSimulation.API1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.API1\\FootballSimulation.API1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.API1\\FootballSimulation.API1.csproj",
+        "projectName": "FootballSimulation.API1",
+        "projectPath": "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.API1\\FootballSimulation.API1.csproj",
+        "packagesPath": "C:\\Users\\TAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.API1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.Base\\FootballSimulation.Base.csproj": {
+                "projectPath": "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.Base\\FootballSimulation.Base.csproj"
+              },
+              "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.Business\\FootballSimulation.Business.csproj": {
+                "projectPath": "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.Business\\FootballSimulation.Business.csproj"
+              },
+              "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.DataAccess\\FootballSimulation.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.DataAccess\\FootballSimulation.DataAccess.csproj"
+              },
+              "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.Entities\\FootballSimulation.Entities.csproj": {
+                "projectPath": "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.Entities\\FootballSimulation.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[13.17.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.Base\\FootballSimulation.Base.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.Base\\FootballSimulation.Base.csproj",
+        "projectName": "FootballSimulation.Base",
+        "projectPath": "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.Base\\FootballSimulation.Base.csproj",
+        "packagesPath": "C:\\Users\\TAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.Base\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "System.Linq": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.Business\\FootballSimulation.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.Business\\FootballSimulation.Business.csproj",
+        "projectName": "FootballSimulation.Business",
+        "projectPath": "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.Business\\FootballSimulation.Business.csproj",
+        "packagesPath": "C:\\Users\\TAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.DataAccess\\FootballSimulation.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.DataAccess\\FootballSimulation.DataAccess.csproj"
+              },
+              "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.Entities\\FootballSimulation.Entities.csproj": {
+                "projectPath": "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.Entities\\FootballSimulation.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.DataAccess\\FootballSimulation.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.DataAccess\\FootballSimulation.DataAccess.csproj",
+        "projectName": "FootballSimulation.DataAccess",
+        "projectPath": "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.DataAccess\\FootballSimulation.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\TAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.Base\\FootballSimulation.Base.csproj": {
+                "projectPath": "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.Base\\FootballSimulation.Base.csproj"
+              },
+              "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.Entities\\FootballSimulation.Entities.csproj": {
+                "projectPath": "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.Entities\\FootballSimulation.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.Entities\\FootballSimulation.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.Entities\\FootballSimulation.Entities.csproj",
+        "projectName": "FootballSimulation.Entities",
+        "projectPath": "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.Entities\\FootballSimulation.Entities.csproj",
+        "packagesPath": "C:\\Users\\TAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.Base\\FootballSimulation.Base.csproj": {
+                "projectPath": "C:\\Users\\TAN\\source\\repos\\FootballSimulation\\FootballSimulation.Base\\FootballSimulation.Base.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FsCheck": {
+              "target": "Package",
+              "version": "[2.16.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

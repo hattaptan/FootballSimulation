@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FootballSimulation.API1</name>
+    </assembly>
+    <members>
+        <member name="M:FootballSimulation.API1.Controllers.FixtureController.Add">
+            <summary>
+            Add Fixtrue
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FootballSimulation.API1.Controllers.FixtureController.GetAll">
+            <summary>
+            Get All Fixture
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FootballSimulation.API1.Controllers.MatchController.GetAll">
+            <summary>
+            Get All Match
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FootballSimulation.API1.Controllers.MatchController.Add">
+            <summary>
+            Add Match
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FootballSimulation.API1.Controllers.TeamController.GetAll">
+            <summary>
+            Get All Team
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FootballSimulation.API1.Controllers.TeamController.Add">
+            <summary>
+            Add Team
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FootballSimulation.API1.Controllers.WeekController.GetAll">
+            <summary>
+            Get All Week
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:FootballSimulation.API1.Controllers.WeekController.Add">
+            <summary>
+            Add Week
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

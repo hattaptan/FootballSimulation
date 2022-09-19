@@ -1,0 +1,15 @@
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Entities\bin\Debug\net6.0\FootballSimulation.Entities.deps.json
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Entities\bin\Debug\net6.0\FootballSimulation.Entities.dll
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Entities\bin\Debug\net6.0\ref\FootballSimulation.Entities.dll
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Entities\bin\Debug\net6.0\FootballSimulation.Entities.pdb
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Entities\bin\Debug\net6.0\FootballSimulation.Base.dll
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Entities\bin\Debug\net6.0\FootballSimulation.Base.pdb
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Entities\obj\Debug\net6.0\FootballSimulation.Entities.csproj.AssemblyReference.cache
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Entities\obj\Debug\net6.0\FootballSimulation.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Entities\obj\Debug\net6.0\FootballSimulation.Entities.AssemblyInfoInputs.cache
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Entities\obj\Debug\net6.0\FootballSimulation.Entities.AssemblyInfo.cs
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Entities\obj\Debug\net6.0\FootballSimulation.Entities.csproj.CoreCompileInputs.cache
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Entities\obj\Debug\net6.0\FootballSimulation.Entities.csproj.CopyComplete
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Entities\obj\Debug\net6.0\FootballSimulation.Entities.dll
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Entities\obj\Debug\net6.0\ref\FootballSimulation.Entities.dll
+C:\Users\TAN\source\repos\FootballSimulation\FootballSimulation.Entities\obj\Debug\net6.0\FootballSimulation.Entities.pdb
